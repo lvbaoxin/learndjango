@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container">
+
+
+            <h4 class="mb-12">Billing address</h4>
+            <form class="needs-validation"  method="post" action="/register/">
+                {% csrf_token %}
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="firstName">Username</label>
+                        <input type="text" class="form-control" name="username" placeholder="" value="" required="">
+                        <div class="invalid-feedback">
+                            Valid first name is required.
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="lastName">Password</label>
+                        <input type="password" class="form-control" name="password" placeholder="" value="" required="">
+                        <div class="invalid-feedback">
+                            Valid last name is required.
+                        </div>
+                    </div>
+                </div>
+                <hr class="mb-4">
+                <button class="btn btn-primary btn-lg btn-block" type="submit">注册</button>
+            </form>
+
+    </div>
+{% endblock %}

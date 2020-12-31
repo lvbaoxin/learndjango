@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad6b5aad-367d-44c5-a205-a4d55d0b1325" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stu/migrations/0002_movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/movie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/_mysql.cp38-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/connections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/CLIENT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/CR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/ER.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/FIELD_TYPE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/FLAG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/converters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/cursors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/release.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/times.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.2.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.2.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.2.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.2.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.2.dist-info/REQUESTED" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.2.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.2.dist-info/top_level.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1e8c8f88-78f0-49eb-a9ab-04b70dc9aa5c.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d6da3d81-f69b-48dd-8654-801bde9c2862.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/db_sqlite3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learndjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learndjango/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learndjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/learndjango/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stu/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/stu/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stu/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/stu/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stu/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/stu/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stu/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/stu/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +147,7 @@
       <workItem from="1609307726131" duration="901000" />
       <workItem from="1609315403535" duration="85000" />
       <workItem from="1609396437819" duration="924000" />
-      <workItem from="1609399989633" duration="4640000" />
+      <workItem from="1609399989633" duration="5843000" />
     </task>
     <servers />
   </component>

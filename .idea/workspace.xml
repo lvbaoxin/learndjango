@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad6b5aad-367d-44c5-a205-a4d55d0b1325" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/421eef9c-7342-4b1c-8089-d1c90c7ed1db.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/421eef9c-7342-4b1c-8089-d1c90c7ed1db.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4ecc78e2-84dd-4693-a386-f1e190194804.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8831e66b-6dab-4341-9447-e9b70036bb2e.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stu/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/stu/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/movie.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/movie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/show.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +150,10 @@
       <workItem from="1609396437819" duration="924000" />
       <workItem from="1609399989633" duration="6436000" />
       <workItem from="1609721535694" duration="299000" />
-      <workItem from="1609727369320" duration="11096000" />
+      <workItem from="1609727369320" duration="13031000" />
+      <workItem from="1609833457948" duration="88000" />
+      <workItem from="1609989950906" duration="23000" />
+      <workItem from="1610431219855" duration="31000" />
     </task>
     <servers />
   </component>

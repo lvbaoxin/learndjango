@@ -103,3 +103,8 @@ def page(num, size=2):
     # 计算出每页显示的记录
     movies = Movie.objects.all()[((num - 1) * size):(num * size)]
     return movies, num
+
+def showsql():
+    from django.db import connection
+    print (connection.queries[-1]['sql'])
+
